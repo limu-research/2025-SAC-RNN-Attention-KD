@@ -2,9 +2,9 @@
 
 This repository contains supplementary materials for the following conference paper:
 
-Sukrit Leelaluk, Cheng Tang, Valdemar Švábenský and Atsushi Shimada.
-Early Prediction of Student Performance Using Knowledge Distillation RNN-Attention Models
-Submitted to the 40th ACM/SIGAPP Symposium On Applied Computing (SAC 2025).
+Sukrit Leelaluk, Cheng Tang, Valdemar Švábenský and Atsushi Shimada.\
+**Early Prediction of Student Performance Using Knowledge Distillation RNN-Attention Models**.\
+In Proceedings of the 40th ACM/SIGAPP Symposium On Applied Computing ([SAC 2025](https://www.sigapp.org/sac/sac2025/)).\
 
 # File description
 
